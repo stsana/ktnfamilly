@@ -66,7 +66,7 @@ paginate = 6
 
 #################### default parameters ################################
 [params]
-logo = ""
+logo = "ktn familly"
 home = "Home"
 # Meta data
 description = "This is meta description"
@@ -92,19 +92,19 @@ expire_days = 2
   
 ############################# Footer ########################
 [params.footer]
-content = "Each theme featured at the Bootstrap marketplace has been reviewed by Bootstrap's creators.Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+content = ""
 
 
 ############################# post share ###################
 [[params.share]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "ktnfamilly"
 
 [[params.share]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "ktnfamilly"
 
 [[params.share]]
 title = "linkedin"
