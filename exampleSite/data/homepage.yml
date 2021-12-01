@@ -4,7 +4,7 @@ banner:
   writter : "Nicole Tsana"
   title : "Les ingrédients pour un couple réussi"
   image : "images/about/book1.png"
-  content : "L'un des rêves les plus communs pour les hommes comme pour les femmes est celui de connaitre l'amour et de vivre une vie de couple heureuse.Mais les statistiques des divorces et des violences conjugales laissent croire que ce rêve se matérialise de plus en plus rarement. Pourquoi donc ? Est-il possible d'inverser la tendance ? Que faire pour réussir sa relation amoureuse et vivre une vie de couple épanouie et de facon durable ?"
+  content : "L'un des rêves les plus communs pour les hommes comme pour les femmes est celui de connaitre l'amour et de vivre une vie de couple heureuse. Mais les statistiques des divorces et des violences conjugales laissent croire que ce rêve se matérialise de plus en plus rarement. Pourquoi donc ? Est-il possible d'inverser la tendance ? Que faire pour réussir sa relation amoureuse et vivre une vie de couple épanouie et de façon durable ?"
   price : "21.56"
 
 ######################## Book Preview ##########################
@@ -17,7 +17,7 @@ preview:
     - image : "images/about/ing1.png"
 
   title : "Look Inside the book"
-  content : "Si vous souhaitez réussir votre relation amoureuse, préparer ou la réparer, ce livre est fait pour vous! Vous découvrirez au travers des expériences de l'auteure et de plusieurs autres couples, les astuces pour éviter la rupture et vivre une lune de miel continuelle."
+  content : "Si vous souhaitez réussir votre relation amoureuse, préparer ou la réparer, ce livre est fait pour vous ! Vous découvrirez au travers des expériences de l'auteure et de plusieurs autres couples, les astuces pour éviter la rupture et vivre une lune de miel continuelle."
 
   inside:
     # book inside item loop
