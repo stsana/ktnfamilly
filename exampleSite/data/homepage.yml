@@ -31,12 +31,7 @@ preview:
     - insideItem : "Bien Détaillé"
     - insideItem : "Bonne compréhension"
     - insideItem : "Bonnes pratiques"
-######################## video yutube ##########################
-preview:
-  enable : true
-  pagePreview:
-    # page preview loop
-    - video : "https://www.youtube.com/watch?v=jqkdu1QKcgc&t=10s"
+
   # button
   button:
     enable : true
@@ -260,16 +255,6 @@ blog:
   enable : false
   title : "Our insights and articles"
   subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique facere quas blanditiis."
-  # blog post comes from 'content/blog'
-
-################################# Laissez un commentaire ###############
-<script src="https://utteranc.es/client.js"
-        repo=" stsana / ktnfamilly "
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
 
 ################################# Contact ##############################
 contact:
