@@ -7,6 +7,12 @@ banner:
   content : "L'un des rêves les plus communs pour les hommes comme pour les femmes est celui de connaitre l'amour et de vivre une vie de couple heureuse. Mais les statistiques des divorces et des violences conjugales laissent croire que ce rêve se matérialise de plus en plus rarement. Pourquoi donc ? Est-il possible d'inverser la tendance ? Que faire pour réussir sa relation amoureuse et vivre une vie de couple épanouie et de façon durable ?"
   price : "21.56"
 
+# button
+  button:
+    enable : true
+    label : "Commander sur Amazon"
+    link : "https://www.amazon.com/INGR%C3%89DIENTS-POUR-COUPLE-R%C3%89USSI-Construire/dp/2931171018/ref=sr_1_1?keywords=les+ingredients+pour+une+vie+de+couple+reussi&qid=1638257446&sr=8-1"
+
 ######################## Book Preview ##########################
 preview:
   enable : true
