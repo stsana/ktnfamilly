@@ -251,6 +251,15 @@ blog:
   subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique facere quas blanditiis."
   # blog post comes from 'content/blog'
 
+################################# Laissez un commentaire ###############
+<script src="https://utteranc.es/client.js"
+        repo=" stsana / ktnfamilly "
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ################################# Contact ##############################
 contact:
   enable : true
