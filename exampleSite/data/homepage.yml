@@ -16,20 +16,20 @@ preview:
     - image : "images/about/book_page2.png"
     - image : "images/about/ing1.png"
 
-  title : "Look Inside the book"
+  title : "Un aperçu du livre"
   content : "Si vous souhaitez réussir votre relation amoureuse, préparer ou la réparer, ce livre est fait pour vous ! Vous découvrirez au travers des expériences de l'auteure et de plusieurs autres couples, les astuces pour éviter la rupture et vivre une lune de miel continuelle."
 
   inside:
     # book inside item loop
-    - insideItem : "18 Chapters(18 Ingredients)"
-    - insideItem : "Explained Details"
-    - insideItem : "Clear Understanding"
-    - insideItem : "Best practices"
+    - insideItem : "18 Chapitres(18 Ingrédients)"
+    - insideItem : "Bien Détaillé"
+    - insideItem : "Bonne compréhension"
+    - insideItem : "Bonnes pratiques"
 
   # button
   button:
     enable : true
-    label : "Purchase on Amazon"
+    label : "Commender sur Amazon"
     link : "https://www.amazon.com/INGR%C3%89DIENTS-POUR-COUPLE-R%C3%89USSI-Construire/dp/2931171018/ref=sr_1_1?keywords=les+ingredients+pour+une+vie+de+couple+reussi&qid=1638257446&sr=8-1"
 
 
@@ -43,13 +43,13 @@ service:
       content : "Nicole TSANA KAMDEM affirme qu'il ya un ensemble d'ingrédients qui doivent être mis et concoctés ensemble afin d'obtenir une vie de couple savoureuse que les deux partenaires auront plaisir à déguster."
       
     # service item loop
-    - title : "Social Goals"
+    - title : "But Social"
       icon : "ti-rocket" # themify icon pack : https://themify.me/themify-icons
       content : "- Aider les couples en crise ou en construction à connaitre un épanouissement et une stabilité durable. 
       Aider toute jeune fille et tout jeune garcon désirant se marier, aux fiancés et aux couples mariés à connaitre le bonheur."
       
     # service item loop
-    - title : "Targetting Vision"
+    - title : "Notre vision"
       icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
       content : "Lutter contre le divorce, la souffrance des couples et la dislocation des familles."
 
@@ -63,7 +63,7 @@ quote:
 ######################### Chapters ##########################
 chapters:
   enable : true 
-  title : "Full Chapter Overview"
+  title : "Vue d'ensemble des différents chapitres"
   
   subtitle : "Construire et entretenir votre vie à deux."
   chapter:
@@ -184,7 +184,7 @@ devices:
   # button
   button:
     enable : true
-    label : "Purchase on amazon"
+    label : "Commander sur Amazon"
     link : "https://www.amazon.com/INGR%C3%89DIENTS-POUR-COUPLE-R%C3%89USSI-Construire/dp/2931171018/ref=sr_1_1?keywords=les+ingredients+pour+une+vie+de+couple+reussi&qid=1638257446&sr=8-1"
 
 ######################################## author #############################
@@ -192,7 +192,7 @@ author:
   enable : true
   image : "images/about/nicole-rose.png"
   name : "Nicole Tsana"
-  designation : " Ecrivaine | Comptable | Blogueuse -"
+  designation : " Ecrivaine | Comptable | Blogueuse "
   content : "Soyons le changement que nous voulons voir dans le momde, dans nos familles, chez nos enfants. Persévérons avec la force divine pour avoir la victoire et briller."
 
   # signature
@@ -254,7 +254,7 @@ blog:
 ################################# Contact ##############################
 contact:
   enable : true
-  title : "Contact Us"
+  title : "Contactez nous"
   subtitle : "Whether you have questions or you would just like to say hello, contact us."
   contactItem:
     # contact Item loop
