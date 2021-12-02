@@ -166,17 +166,17 @@ reviews:
 #################################### device ################################
 devices:
   enable : true
-  title : "Read it on your favorite device!"
+  title : "Lisez-le sur votre appareil préféré !"
   content : "Nos statistics"
   image : "images/about/astuces.png"
   feature:
     # feature item loop
-    - title : "Take a sneak peak insight"
+    - title : "Découvrez un aperçu"
       icon : "ti-bar-chart" # themify icon pack : https://themify.me/themify-icons
       content : "Nos lecteurs evaluent l'ouvrage selon le thème, sa pertinence et la qualité de sa rédaction."
       
     # feature item loop
-    - title : "Reporting & Analysis"
+    - title : "Rapports & analyses"
       icon : "ti-write" # themify icon pack : https://themify.me/themify-icons
       content : "Environ 95% de lecteurs trouvent que notre livre est pertinent et bien rédigé."
 
