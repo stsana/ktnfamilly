@@ -31,7 +31,12 @@ preview:
     - insideItem : "Bien Détaillé"
     - insideItem : "Bonne compréhension"
     - insideItem : "Bonnes pratiques"
-
+######################## video yutube ##########################
+preview:
+  enable : true
+  pagePreview:
+    # page preview loop
+    - video : "https://www.youtube.com/watch?v=jqkdu1QKcgc&t=10s"
   # button
   button:
     enable : true
