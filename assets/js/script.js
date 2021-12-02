@@ -103,5 +103,11 @@
       $('.navbar-collapse').collapse('hide');
     });
 
-
+<script src="https://utteranc.es/client.js"
+        repo=" stsana / ktnfamilly "
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
   })(jQuery);
