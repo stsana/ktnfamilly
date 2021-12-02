@@ -1,4 +1,11 @@
-  // Preloader js    
+  // Preloader js
+<script src="https://utteranc.es/client.js"
+        repo=" stsana / ktnfamilly "
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
   $(window).on('load', function () {
     $('.preloader').fadeOut(100);
   });
@@ -103,11 +110,4 @@
       $('.navbar-collapse').collapse('hide');
     });
 
-<script src="https://utteranc.es/client.js"
-        repo=" stsana / ktnfamilly "
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
   })(jQuery);
