@@ -252,7 +252,7 @@ otherBooks:
 
 ################################ Blog ###################################
 blog:
-  enable : false
+  enable : True
   title : "Our insights and articles"
   subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique facere quas blanditiis."
 
