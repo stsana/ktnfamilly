@@ -25,3 +25,4 @@ Chaque jour nous faisons face à de nouveaux challenges.  Chose pas toujours év
 
 Il est donc très important de travailler notre état d'âme , avoir un moral d'enfer, de resistant pour affronter les situations de la vie qu'elles soient limites ou pas. "La vie c'est la bastonnade " comme disait une grande dame d'affaire au nom de Fonning Françoise.   Nous devons donc persévérer avec toute notre énergie pour aller de l'avant. J'ai appris une chose aujourd'hui avancer quoi qu'il en soit , maintenir le cap et surtout faire fi de tous les haiteurs, de tout ce que pensent les autres de nous et cela  ne doit en aucun cas constituer un frein  pour notre évolution, ne surtout pas abandonner et se donner à soi même un coup de pieds.
                 
+Il est dit dans 2 ch15.7 **" Soyons forts, et surtout pas se décourager et tous nos efforts seront récompensés"** En clair, Dieu voit notre persévérance, et il nous exaucera au moment favorable.
