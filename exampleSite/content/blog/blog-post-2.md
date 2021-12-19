@@ -1,10 +1,10 @@
 ---
-title: "My Awesome Blog Post"
-date: 2019-11-23T15:28:43+06:00
+title: "Savoir recommencer dans la vie quand on tombe."
+date: 2020-11-23T17:28:43+06:00
 draft: false
 
 # post author
-author : "themefisher"
+author : "Nicole Tsana"
 
 # post thumb
 image: "images/blog/blog-1.jpg"
@@ -19,31 +19,8 @@ tags: ["Photos", "HTML", "Book", "New"]
 type: "post"
 ---
 
+je n'oublierai jamais cette citation de mon professeur de mathématique en classe de terminale. Comme disait **Confucius  _" La vie n'est pas une succession de succès mais la capacité de se relever chaque fois que l'on tombe".
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel
-nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem,
-nam voluptate in beatae.
+Je vais partager ici avec vous une nouvelle leçon apprise récensement: "la vie est un recommencement". j'ai compris suite à une situation vécue qu'il ne faut jamais baisser les bras surtout quand nous avons écouté notre cœur et convaincue que nous sommes sur la bonne voie. Du coup lorsqu'on tombe face à une situation il faut savoir se relever pour continuer à se battre et aller de l'avant car la réussite se trouve au bout de l’effort. Il y'a d'ailleurs un adage qui dit que la vie n'est pas un long fleuve tranquille. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam officiis perspiciatis, eaque porro ad
-facilis vel amet. Pariatur eligendi odio voluptatem provident modi eos, perferendis quas delectus.
-Dolore, quo. Ad.
-
-
-> A brand for a company is like a reputation for a person. You earn reputation by
-trying to do hard things well.
-
-## We are leading industry to build your career
-
-The same is true as we experience the emotional sensation of
-stress from our first instances of social rejection ridicule. We quickly learn to fear and thus
-automatically.
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi
-laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in,
-doloribus hic aperiam maiores fugit.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat
-tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos
-animi laborum iusto expedita sapiente.
-                
+Ah oui j'ai appris à faire du sport au moins une fois par semaine pour un début et je vois déjà la différence en deux séances , je me sens moins fatiguée et je suis plus productive et cela me permet de tenir bon malgré tout et continuer mon combat pour l’excellence et surtout d'achever les tâches commencées.
