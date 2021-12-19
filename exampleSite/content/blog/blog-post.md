@@ -1,10 +1,10 @@
 ---
-title: "My Awesome Blog Post"
-date: 2019-11-23T15:28:43+06:00
+title: "La persévérance"
+date: 2020-07-06T15:28:43+06:00
 draft: false
 
 # post author
-author : "themefisher"
+author : "Nicole Tsana"
 
 # post thumb
 image: "images/blog/blog-1.jpg"
@@ -19,31 +19,9 @@ tags: ["Photos", "HTML", "Python", "New"]
 type: "post"
 ---
 
+Il y'a un adage qui dit que la vie n'est pas un long fleuve tranquille. Eh oui mes amours...
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel
-nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem,
-nam voluptate in beatae.
+Chaque jour nous faisons face à de nouveaux challenges.  Chose pas toujours évidente car tout dépend souvent de notre état d'esprit du jour.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam officiis perspiciatis, eaque porro ad
-facilis vel amet. Pariatur eligendi odio voluptatem provident modi eos, perferendis quas delectus.
-Dolore, quo. Ad.
-
-
-> A brand for a company is like a reputation for a person. You earn reputation by
-trying to do hard things well.
-
-## We are leading industry to build your career
-
-The same is true as we experience the emotional sensation of
-stress from our first instances of social rejection ridicule. We quickly learn to fear and thus
-automatically.
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi
-laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in,
-doloribus hic aperiam maiores fugit.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat
-tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos
-animi laborum iusto expedita sapiente.
+Il est donc très important de travailler notre état d'âme , avoir un moral d'enfer, de resistant pour affronter les situations de la vie qu'elles soient limites ou pas. "La vie c'est la bastonnade " comme disait une grande dame d'affaire au nom de Fonning Françoise.   Nous devons donc persévérer avec toute notre énergie pour aller de l'avant. J'ai appris une chose aujourd'hui avancer quoi qu'il en soit , maintenir le cap et surtout faire fi de tous les haiteurs, de tout ce que pensent les autres de nous et cela  ne doit en aucun cas constituer un frein  pour notre évolution, ne surtout pas abandonner et se donner à soi même un coup de pieds.
                 
