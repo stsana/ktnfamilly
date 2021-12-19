@@ -253,8 +253,8 @@ otherBooks:
 ################################ Blog ###################################
 blog:
   enable : True
-  title : "Our insights and articles"
-  subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique facere quas blanditiis."
+  title : "Nos articles et publications"
+  subtitle : "Nous pouvons tous créer le changement, travailler sur le je et le nous, laisser le monde plus beau que ce que nous avons trouvé,  laisser un héritage derrière nous."
 
 ################################# Contact ##############################
 contact:
