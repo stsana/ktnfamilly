@@ -1,13 +1,13 @@
 ---
-title: "La persévérance"
-date: 2020-07-06T15:28:43+06:00
+title: "La fidélité dans les petites choses"
+date: 2022-01-06T15:18:43+06:00
 draft: false
 
 # post author
 author : "Nicole Tsana"
 
 # post thumb
-image: "images/blog/blogpost2.jpg"
+image: "images/blog/post4.png"
 
 # meta description
 description: "this is meta description"
@@ -19,10 +19,24 @@ tags: ["Photos", "HTML", "Python", "New"]
 type: "post"
 ---
 
-Il y'a un adage qui dit que la vie n'est pas un long fleuve tranquille. Eh oui mes amours...
-
-Chaque jour nous faisons face à de nouveaux challenges.  Chose pas toujours évidente car tout dépend souvent de notre état d'esprit du jour.
-
-Il est donc très important de travailler notre état d'âme , avoir un moral d'enfer, de resistant pour affronter les situations de la vie qu'elles soient limites ou pas. "La vie c'est la bastonnade " comme disait une grande dame d'affaire au nom de Fonning Françoise.   Nous devons donc persévérer avec toute notre énergie pour aller de l'avant. J'ai appris une chose aujourd'hui avancer quoi qu'il en soit , maintenir le cap et surtout faire fi de tous les haiteurs, de tout ce que pensent les autres de nous et cela  ne doit en aucun cas constituer un frein  pour notre évolution, ne surtout pas abandonner et se donner à soi même un coup de pieds.
-                
-Il est dit dans 2 ch15.7 **" Soyons forts, et surtout pas se décourager et tous nos efforts seront récompensés"** En clair, Dieu voit notre persévérance, et il nous exaucera au moment favorable.
+Il faut le dire, pour arriver à réaliser de grandes choses dans la vie, il faut être capable d'assumer les
+petites choses avec beaucoup de sérieux et d'engagement.
+L'expérience à montrer que plus on effectue la tâche aussi minime soit elle au quotidien, le tout puissant
+nous en confie davantage de plus grandes et de plus belles responsabilités.
+Nous devenons des personnes, respectées et excellentes et surtout utiles pour les autres. Prenons
+l'exemple de l'histoire de **Moïse** dans le livre d'exode où il est décrit qu'avec un simple bâton il avait réussi à
+libérer le peuple d'Israël.
+Cette action qui relève certes du surnaturel, mais il l'a suffit qu'il agisse avec les armes qu'il avait à sa
+disposition afin d'avoir la victoire.  L'exemple de David est tout aussi frappante car grâce à une simple
+fronde il a réussi à détruire son plus grand ennemi goliath.
+Le cas de Jésus lui même en dit long, lorsqu'il avait demandé à Philippe où est ce qu'ils allaient trouver
+du pain pour nourrir 5000 personnes ? Ce dernier lui enmena un pain qu'il multiplia et réussi à nourrir tout un
+peuple.
+La morale est simple, celle de savoir qu'en plein désert, face à une situation limite, il ne faut jamais douter
+mais agir avec le peu que nous possédons, que ce soit un talent, mettons le simplement en marche et
+agissons. 
+Le miracle se produira par la suite. Nous devons être convaincu que lorsque nous nous levons, Dieu se
+lève avec nous. Victoire assurée. Et lorsque nous prions, Dieu réponds toujours. Demandons lui la grâce de
+savoir assumer la responsabilité de nos prières, en étant reconnaissant pour la santé, pour nos enfants, pour
+notre partenaire, pour nos parents, frères et sœurs en santé. Soyons abondamment bénis et soyons fidèles
+dans les petites choses pour aller de gloire en gloire.
