@@ -2,7 +2,7 @@
 author: Nicole Tsana
 categories:
 - Go Language
-date: "2019-11-23T15:28:43+06:00"
+date: "2022-1-23T15:18:56+06:00"
 description: La fidélité dans les petites choses
 draft: false
 image: images/blog/post4.jpg
