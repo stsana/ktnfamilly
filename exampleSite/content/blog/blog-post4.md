@@ -1,9 +1,9 @@
 ---
-author: themefisher
+author: Nicole Tsana
 categories:
 - Go Language
 date: "2019-11-23T15:28:43+06:00"
-description: this is meta description
+description: La fidélité dans les petites choses
 draft: false
 image: images/blog/blog-1.jpg
 tags:
@@ -11,35 +11,28 @@ tags:
 - HTML
 - Python
 - New
-title: My Awesome Blog Post
+title: La fidélité dans les petites choses.
 type: post
 ---
 
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel
-nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem,
-nam voluptate in beatae.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam officiis perspiciatis, eaque porro ad
-facilis vel amet. Pariatur eligendi odio voluptatem provident modi eos, perferendis quas delectus.
-Dolore, quo. Ad.
-
-
-> A brand for a company is like a reputation for a person. You earn reputation by
-trying to do hard things well.
-
-## We are leading industry to build your career
-
-The same is true as we experience the emotional sensation of
-stress from our first instances of social rejection ridicule. We quickly learn to fear and thus
-automatically.
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi
-laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in,
-doloribus hic aperiam maiores fugit.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat
-tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos
-animi laborum iusto expedita sapiente.
-                
+Il faut le dire, pour arriver à réaliser de grandes choses dans la vie, il faut être capable d'assumer les
+petites choses avec beaucoup de sérieux et d'engagement.
+L'expérience à montrer que plus on effectue la tâche aussi minime soit elle au quotidien, le tout puissant
+nous en confie davantage de plus grandes et de plus belles responsabilités.
+Nous devenons des personnes, respectées et excellentes et surtout utiles pour les autres. Prenons
+l'exemple de l'histoire de **Moïse** dans le livre d'exode où il est décrit qu'avec un simple bâton il avait réussi à
+libérer le peuple d'Israël.
+Cette action qui relève certes du surnaturel, mais il l'a suffit qu'il agisse avec les armes qu'il avait à sa
+disposition afin d'avoir la victoire.  L'exemple de David est tout aussi frappante car grâce à une simple
+fronde il a réussi à détruire son plus grand ennemi goliath.
+Le cas de Jésus lui même en dit long, lorsqu'il avait demandé à Philippe où est ce qu'ils allaient trouver
+du pain pour nourrir 5000 personnes ? Ce dernier lui enmena un pain qu'il multiplia et réussi à nourrir tout un
+peuple.
+La morale est simple, celle de savoir qu'en plein désert, face à une situation limite, il ne faut jamais douter
+mais agir avec le peu que nous possédons, que ce soit un talent, mettons le simplement en marche et
+agissons. 
+Le miracle se produira par la suite. Nous devons être convaincu que lorsque nous nous levons, Dieu se
+lève avec nous. Victoire assurée. Et lorsque nous prions, Dieu réponds toujours. Demandons lui la grâce de
+savoir assumer la responsabilité de nos prières, en étant reconnaissant pour la santé, pour nos enfants, pour
+notre partenaire, pour nos parents, frères et sœurs en santé. Soyons abondamment bénis et soyons fidèles
+dans les petites choses pour aller de gloire en gloire
