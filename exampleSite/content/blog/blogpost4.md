@@ -1,18 +1,22 @@
 ---
-author: Nicole Tsana
-categories:
-- Go Language
-date: "2022-1-23T15:18:56+06:00"
-description: La fidélité dans les petites choses
+title: "La persévérance"
+date: 2022-01-06T15:18:43+06:00
 draft: false
-image: images/blog/post4.jpg
-tags:
-- Photos
-- HTML
-- Python
-- New
-title: La fidélité dans les petites choses.
-type: post
+
+# post author
+author : "Nicole Tsana"
+
+# post thumb
+image: "images/blog/post4.jpg"
+
+# meta description
+description: "this is meta description"
+
+# taxonomies
+categories: ["Go Language"]
+tags: ["Photos", "HTML", "Python", "New"]
+# post type
+type: "post"
 ---
 
 Il faut le dire, pour arriver à réaliser de grandes choses dans la vie, il faut être capable d'assumer les
