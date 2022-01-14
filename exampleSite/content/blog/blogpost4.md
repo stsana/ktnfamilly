@@ -7,7 +7,7 @@ draft: false
 author : "Nicole Tsana"
 
 # post thumb
-image: "images/blog/post4.jpg"
+image: "images/blog/post4.png"
 
 # meta description
 description: "this is meta description"
